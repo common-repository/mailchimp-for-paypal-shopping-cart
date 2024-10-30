@@ -1,0 +1,151 @@
+.form-table {
+	width: 60%;
+	border-collapse: separate;
+}
+.form-table td p {
+	font-size: 10px;
+}
+.amznpmnts-content table tr {
+	border: 1px solid #DDDDDD;
+	height: 50px;
+}
+.amznpmnts-content table tr th {
+	font-weight: 600;
+	line-height: 1.3;
+	padding: 20px 0px 20px 0;
+	text-align: left;
+	vertical-align: top;
+}
+.amznpmnts-content table tr th label {
+	padding: 0px 0px 0px 30px;
+}
+
+.amznpmnts-content table tr td {
+	padding-left: 10px;
+}
+
+.amznpmnts-content table tr td span {
+	padding-left: 10px;
+	clear: both;
+	color: #888888;
+	font-size: 10px;
+}
+.amznpmnts-content span {
+	background-color: #ffffff;
+	display: block;
+	height: 50px;
+	margin-bottom: 15px;
+	padding: 10px;
+	width: 1075px;
+}
+
+#main_fltrsprdcts_option {
+	clear: both;
+}
+
+#amznpmnts-items-wrapper .car-text ul li {
+	float: none;
+}
+
+#amznpmnts-items-wrapper h2 {
+	float: left;
+	padding-top: 0px;
+}
+
+#amznpmnts-items-wrapper .add-new-h2 {
+	float: left;
+	top: 3px;
+}
+
+.widefat tbody th.check-column {
+	vertical-align: inherit;
+}
+
+.widefat th, .widefat td {
+	overflow: hidden;
+	vertical-align: inherit;
+}
+
+#amznpmnts-tabs .wp-list-table .column-status_trash .amznpmnts-letter {
+	background: url("../images/del.png") no-repeat scroll center;
+	height: 18px;
+	margin-top: 3px;
+	text-indent: 9999px;
+	width: 16px;
+}
+
+#amznpmnts-tabs .wp-list-table .column-status_trash .amznpmnts-trash {
+	background: url("../images/del.png") no-repeat scroll center;
+	height: 18px;
+	margin-top: 3px;
+	text-indent: 9999px;
+	width: 16px;
+}
+
+.amznpmnts-manager-filters {
+	padding-top: 8px;
+	float: left;
+}
+
+.amznpmnts-manager-filters a {
+	text-decoration: none;
+}
+
+.amznpmnts-manager-filters a span {
+	color: #999999;
+}
+
+.amznpmnts-manager-filters .current {
+	color: #333333;
+	font-weight: bold;
+}
+
+#amznpmnts-tabs .wp-list-table .column-id {
+	padding: 0;
+	width: 0;
+}
+
+#amznpmnts-tabs .wp-list-table .column-status_trash {
+	padding: 1px;
+	width: 16px;
+}
+
+#amznpmnts-tabs .wp-list-table .column-brand {
+	padding-left: 10px;
+}
+
+#amznpmnts-tabs .wp-list-table .column-name {
+	padding: 0;
+	width: 125px;
+}
+
+#amznpmnts-tabs .wp-list-table .column-first_date {
+	padding: 0;
+	width: 110px;
+}
+
+#amznpmnts-tabs .wp-list-table .column-last_date {
+	padding: 0;
+	width: 110px;
+}
+
+#amznpmnts-tabs .wp-list-table .column-attachment {
+	padding: 0;
+	width: 157px;
+	padding: 5px;
+	padding-right: 20px;
+}
+
+#amznpmnts-tabs .wp-list-table .column-attachment img {
+	width: 100%;
+	height: auto;
+}
+
+#amznpmnts-tabs .wp-list-table .column-description {
+	width: 165px;
+	height: auto;
+}
+
+#amznpmnts-tabs .alternate, .alt {
+	background-color: #F3F3F3;
+}

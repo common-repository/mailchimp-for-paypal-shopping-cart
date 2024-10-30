@@ -1,0 +1,151 @@
+.form-table {
+	width: 60%;
+	border-collapse: separate;
+}
+.form-table td p {
+	font-size: 12px;
+}
+.mailchimp-content table tr {
+	border: 1px solid #DDDDDD;
+	height: 50px;
+}
+.mailchimp-content table tr th {
+	font-weight: 600;
+	line-height: 1.3;
+	padding: 20px 0px 20px 0;
+	text-align: left;
+	vertical-align: top;
+}
+.mailchimp-content table tr th label {
+	padding: 0px 0px 0px 30px;
+}
+
+.mailchimp-content table tr td {
+	padding-left: 10px;
+}
+
+.mailchimp-content table tr td span {
+	padding-left: 10px;
+	clear: both;
+	color: #888888;
+	font-size: 10px;
+}
+.mailchimp-content span {
+	background-color: #ffffff;
+	display: block;
+	height: 50px;
+	margin-bottom: 15px;
+	padding: 10px;
+	width: 1075px;
+}
+
+#main_fltrsprdcts_option {
+	clear: both;
+}
+
+#mailchimp-items-wrapper .car-text ul li {
+	float: none;
+}
+
+#mailchimp-items-wrapper h2 {
+	float: left;
+	padding-top: 0px;
+}
+
+#mailchimp-items-wrapper .add-new-h2 {
+	float: left;
+	top: 3px;
+}
+
+.widefat tbody th.check-column {
+	vertical-align: inherit;
+}
+
+.widefat th, .widefat td {
+	overflow: hidden;
+	vertical-align: inherit;
+}
+
+#mailchimp-tabs .wp-list-table .column-status_trash .mailchimp-letter {
+	background: url("../images/del.png") no-repeat scroll center;
+	height: 18px;
+	margin-top: 3px;
+	text-indent: 9999px;
+	width: 16px;
+}
+
+#mailchimp-tabs .wp-list-table .column-status_trash .mailchimp-trash {
+	background: url("../images/del.png") no-repeat scroll center;
+	height: 18px;
+	margin-top: 3px;
+	text-indent: 9999px;
+	width: 16px;
+}
+
+.mailchimp-manager-filters {
+	padding-top: 8px;
+	float: left;
+}
+
+.mailchimp-manager-filters a {
+	text-decoration: none;
+}
+
+.mailchimp-manager-filters a span {
+	color: #999999;
+}
+
+.mailchimp-manager-filters .current {
+	color: #333333;
+	font-weight: bold;
+}
+
+#mailchimp-tabs .wp-list-table .column-id {
+	padding: 0;
+	width: 0;
+}
+
+#mailchimp-tabs .wp-list-table .column-status_trash {
+	padding: 1px;
+	width: 16px;
+}
+
+#mailchimp-tabs .wp-list-table .column-brand {
+	padding-left: 10px;
+}
+
+#mailchimp-tabs .wp-list-table .column-name {
+	padding: 0;
+	width: 125px;
+}
+
+#mailchimp-tabs .wp-list-table .column-first_date {
+	padding: 0;
+	width: 110px;
+}
+
+#mailchimp-tabs .wp-list-table .column-last_date {
+	padding: 0;
+	width: 110px;
+}
+
+#mailchimp-tabs .wp-list-table .column-attachment {
+	padding: 0;
+	width: 157px;
+	padding: 5px;
+	padding-right: 20px;
+}
+
+#mailchimp-tabs .wp-list-table .column-attachment img {
+	width: 100%;
+	height: auto;
+}
+
+#mailchimp-tabs .wp-list-table .column-description {
+	width: 165px;
+	height: auto;
+}
+
+#mailchimp-tabs .alternate, .alt {
+	background-color: #F3F3F3;
+}
